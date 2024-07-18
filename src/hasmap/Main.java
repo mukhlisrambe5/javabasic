@@ -3,7 +3,7 @@ package hasmap;
 import java.util.HashMap;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(<>[] args) {
         HashMap <String, String> countries = new HashMap<String, String>();
 
         //add a key and value
