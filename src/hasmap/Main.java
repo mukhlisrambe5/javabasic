@@ -7,7 +7,7 @@ public class Main {
         HashMap <String, String> countries = new HashMap<String, String>();
 
         //add a key and value
-        countries.put("USA", "Washington D.C.");
+        countries.put("USA", "Washington D.C. ");
         countries.put("Canada", "Ottawa");
         countries.put("France", "Paris");
 
